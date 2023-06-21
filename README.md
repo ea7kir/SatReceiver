@@ -1,5 +1,7 @@
 # SatReceiver
 
+**This project is Archived. Further development is unlikely.**
+
 ## Description
 
 SatReceiver, together with [SatController](https://github.com/ea7kir/SatController) and [SatServer](https://github.com/ea7kir/SatServer), is a system for controlling and Digital Amateur Television (DATV) equipment over a wired local area network.
